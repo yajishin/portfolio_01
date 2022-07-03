@@ -1,0 +1,4 @@
+docker desktopをinstall
+docket pull node 実行
+docker create --name portfolio node 実行
+docker start で起動させたいが、なぜかrunningにならない
